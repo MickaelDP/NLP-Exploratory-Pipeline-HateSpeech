@@ -74,6 +74,8 @@ By operationalizing hate speech as a Local Outlier, this framework focuses on:
 
 <p align="center">
   <img src="./Assets/LOF.png" alt="LOF Visualization" width="500">
+</p>
+<p align="center">
   <span style="display: block; text-align: center;">
     <em>Conceptual visualization of the Local Outlier Factor (LOF) algorithm. <br>
      The radius of the red circles is proportional to the local outlier score. <b><a href="https://scikit-learn.org/stable/auto_examples/neighbors/plot_lof_outlier_detection.html">Source</a></b></em>
